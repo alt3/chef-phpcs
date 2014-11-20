@@ -1,4 +1,5 @@
-# cakebox cookbook
+phpcs cookbook
+===
 
 [![Build Status](https://travis-ci.org/alt3/chef-phpcs.svg)](https://travis-ci.org/alt3/chef-phpcs)
 
