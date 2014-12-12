@@ -6,5 +6,5 @@ default['phpcs']['bin_dir'] = "/usr/local/bin"
 
 # CakePHP coding standard
 default['phpcs']['cakephp_package'] = 'cakephp/cakephp-codesniffer'
-default['phpcs']['cakephp_version'] = '2.0.*@dev'
+default['phpcs']['cakephp_version'] = '2.*@dev'
 default['phpcs']['cakephp_install_path'] = '/opt/composer-libraries/cakephp_codesniffer'

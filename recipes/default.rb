@@ -14,7 +14,6 @@ end
 composer_package 'CakePHP Coding Standard' do
   install_path node['phpcs']['cakephp_install_path']
   packages ({ node['phpcs']['cakephp_package'] => node['phpcs']['cakephp_version'] })
-  dev true
   group "root"
   action [:create, :update]
 end

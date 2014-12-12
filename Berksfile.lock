@@ -1,10 +1,10 @@
 DEPENDENCIES
   composer
-    git: https://github.com/Morphodo/chef-composer.git
-    revision: 27cb886029fc28e08ca80ab0b15408b412bb09b7
+    git: https://github.com/bravo-kernel/chef-composer.git
+    revision: 00e4a6ba9bcd2e28be0a3011302d26bcd5a36d2b
   php5-ppa
     git: https://github.com/alt3/chef-php5-ppa.git
-    revision: d9c2249581d0e4f17d8c4cc7820ca39f49dd439e
+    revision: 3752532f84d24f64796b56f9b2ffac0fbe429931
   phpcs
     path: .
     metadata: true
