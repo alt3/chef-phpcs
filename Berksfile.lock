@@ -1,7 +1,7 @@
 DEPENDENCIES
   composer
-    git: https://github.com/bravo-kernel/chef-composer.git
-    revision: 00e4a6ba9bcd2e28be0a3011302d26bcd5a36d2b
+    git: https://github.com/Morphodo/chef-composer.git
+    revision: 92aee6313fc47dfd51b45c176b7efe41c767c57d
   php5-ppa
     git: https://github.com/alt3/chef-php5-ppa.git
     revision: 3752532f84d24f64796b56f9b2ffac0fbe429931

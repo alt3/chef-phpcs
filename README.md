@@ -7,7 +7,7 @@ Chef cookbook for Composer installing [PHP CodeSniffer](https://github.com/squiz
 
 # Supported Platforms
 
-This cookbook is test-kitchen tested against the following platforms:
+This cookbook has been kitchen-tested against the following platforms:
 
 - ubuntu-14.04
 
